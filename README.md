@@ -43,10 +43,10 @@ Aplikasi **Rofiq Tech Store** adalah solusi manajemen katalog produk berbasis mo
 |---|---|
 | ![Delete Alert](screenshots/ss_hapus_alert.png) | ![Delete Success](screenshots/ss_hapus_sukses.png) |
 
-### Pengumpulan Tugas Akhir
-| Final Submission |
-|---|
-| ![Submit Task](screenshots/ss_submit.png) |
+### Alur Pengumpulan Tugas
+| 1. Pengisian Form | 2. Konfirmasi Kirim | 3. Bukti Berhasil |
+|---|---|---|
+| ![Filling](screenshots/ss_isisubmit.png) | ![Alert](screenshots/ss_alert_submit.png) | !
 
 ---
 
