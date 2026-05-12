@@ -1,4 +1,4 @@
-# 📱 Rofiq Tech Store - Premium Flutter Management System
+# Rofiq Tech Store - Premium Flutter Management System
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows-lightgrey.svg)](#)
@@ -8,39 +8,39 @@ Aplikasi **Rofiq Tech Store** adalah solusi manajemen katalog produk berbasis mo
 
 ---
 
-## 🚀 Fitur Unggulan
+## Fitur Unggulan
 
-### 🔐 Modern Authentication
+### Modern Authentication
 - **Secure Token Management**: Implementasi `flutter_secure_storage` untuk enkripsi data sensitif (Bearer Token) di tingkat lokal.
 - **Robust Logic**: Sistem login dengan validasi input dan penanganan error yang informatif.
 
-### 💎 Premium Tech UI/UX
+### Premium Tech UI/UX
 - **Dark Tech Aesthetic**: Antarmuka modern dengan skema warna Deep Blue & Cyan Neon.
 - **Micro-Animations**: Penggunaan feedback visual seperti loading indicators, snackbars, dan efek elevasi pada kartu produk.
 - **Responsive Layout**: Desain yang menyesuaikan diri dengan berbagai ukuran layar perangkat.
 
-### 📦 Product Management (CRUD Ready)
+### Product Management (CRUD Ready)
 - **Dynamic Catalog**: Fetching data secara real-time dari API server.
 - **Soft Delete System**: Fitur penghapusan produk yang aman (data tetap tersimpan di server).
 - **Data Validation**: Penanganan tipe data yang ketat (misalnya validasi angka pada harga).
 
 ---
 
-## 📸 Dokumentasi Visual
+## Dokumentasi Visual
 
-### ⚡ Antarmuka Utama & Katalog
+### Antarmuka Utama & Katalog
 | Sistem Autentikasi | Katalog Produk Utama | Dialog Soft Delete |
 |---|---|---|
 | ![Login](screenshots/ss_login.png) | ![Catalog](screenshots/ss_katalog.png) | ![Delete](screenshots/ss_hapus_alert.png) |
 
-### 🛠️ Manajemen Produk & Pengiriman
+### Manajemen Produk & Pengiriman
 | Form Input Data | Notifikasi Keberhasilan | Transmisi Tugas Akhir |
 |---|---|---|
 | ![Add Form](screenshots/ss_tambah_form.png) | ![Success](screenshots/ss_tambah_sukses.png) | ![Submit Task](screenshots/ss_submit.png) |
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 Proyek ini mengikuti pola arsitektur **Service-oriented (MVC-ish)** yang rapi:
 
 ```text
@@ -53,7 +53,7 @@ lib/
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 1. Pastikan Anda telah menginstal **Flutter SDK** versi terbaru.
 2. Clone repository ini.
 3. Jalankan perintah untuk mengambil dependencies:
