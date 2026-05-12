@@ -28,15 +28,25 @@ Aplikasi **Rofiq Tech Store** adalah solusi manajemen katalog produk berbasis mo
 
 ## Dokumentasi Visual
 
-### Antarmuka Utama & Katalog
-| Sistem Autentikasi | Katalog Produk Utama | Dialog Soft Delete |
-|---|---|---|
-| ![Login](screenshots/ss_login.png) | ![Catalog](screenshots/ss_katalog.png) | ![Delete](screenshots/ss_hapus_alert.png) |
+### Autentikasi & Navigasi Utama
+| Sistem Login | Katalog Produk |
+|---|---|
+| ![Login](screenshots/ss_login.png) | ![Catalog](screenshots/ss_katalog.png) |
 
-### Manajemen Produk & Pengiriman
-| Form Input Data | Notifikasi Keberhasilan | Transmisi Tugas Akhir |
+### Alur Tambah Produk (Entry Flow)
+| 1. Form Kosong | 2. Pengisian Data | 3. Notifikasi Sukses |
 |---|---|---|
-| ![Add Form](screenshots/ss_tambah_form.png) | ![Success](screenshots/ss_tambah_sukses.png) | ![Submit Task](screenshots/ss_submit.png) |
+| ![Add Form](screenshots/ss_tambah_form.png) | ![Filling](screenshots/ss_tambah_isi.png) | ![Add Success](screenshots/ss_tambah_sukses.png) |
+
+### Alur Soft Delete (Removal Flow)
+| 1. Konfirmasi Hapus | 2. Notifikasi Berhasil |
+|---|---|
+| ![Delete Alert](screenshots/ss_hapus_alert.png) | ![Delete Success](screenshots/ss_hapus_sukses.png) |
+
+### Pengumpulan Tugas Akhir
+| Final Submission |
+|---|
+| ![Submit Task](screenshots/ss_submit.png) |
 
 ---
 
